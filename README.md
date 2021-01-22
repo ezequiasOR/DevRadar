@@ -86,5 +86,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ------------
 
+A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
 > Autor: **Ezequias Rocha**
